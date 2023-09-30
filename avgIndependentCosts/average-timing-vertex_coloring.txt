@@ -1,0 +1,9 @@
+LIndependent_start_0-LIndependent_end_0: 0.0000001796
+LIndependent_start_1-LIndependent_end_1: 0.0000007545
+LIndependent_start_2-LIndependent_end_2: 0.0000001949
+LIndependent_start_3-LIndependent_end_3: 0.0000001320
+LIndependent_start_4-LIndependent_end_4: 0.0000001283
+LIndependent_start_5-LIndependent_end_5: 0.0000001899
+LIndependent_start_6-LIndependent_end_6: 0.0000002179
+LIndependent_start_7-LIndependent_end_7: 0.0000001631
+LIndependent_start_9-LIndependent_end_9: 0.0000001181
